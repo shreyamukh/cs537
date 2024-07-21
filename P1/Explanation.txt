@@ -1,4 +1,0 @@
-30 out of 30 test cases Passed
-README.md Found
-Final Grade: 50.0 out of 50
-Final Grade After Any Deductions: 50.0 out of 50

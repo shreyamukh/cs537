@@ -1,7 +1,4 @@
 Name : Shreya Mukherjee
-CS login : mukherjee
-Wisc ID : smukherjee33
-Email : smukherjee33@wisc.edu
 
 Changed made to xv6 OS:
 
